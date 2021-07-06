@@ -102,6 +102,7 @@ h4 {
   font-size: 30px;
 }
 
+
 .followers-area {
   width: 86%;
   margin-left: 7%;
@@ -121,4 +122,16 @@ h4 {
   color: black;
   margin-top: -10%;
   margin-bottom: 15%;
+}
+footer{
+    margin-top: 10%;
+    background-color: #0B0D17;
+    height: 200px;
+}
+footer h3{
+    padding-top: 2%;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
 }
